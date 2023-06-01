@@ -6,13 +6,13 @@ our project aims to classify borrowers and predict whether they will be consider
 
 ## Authors
 
-- [@Chanan Jacobs](https://www.github.com/octokatherine)
-- [@Aviv Yefet](https://www.github.com/octokatherine)
+- [@Chanan Jacobs]([https://www.github.com/octokatherine](https://github.com/chananJ))
+- [@Aviv Yefet]([https://www.github.com/octokatherine](https://github.com/avivyefet))
 
 
 
 ## the problem
-Given a personג€™s credit-card information, we will build a machine learning model that can classify the credit score. Our goal is to create a smart system with ML that can categorize individuals into different credit score brackets, with the aim of minimizing the need for manual effort.
+Given a person's credit-card information, we will build a machine learning model that can classify the credit score. Our goal is to create a smart system with ML that can categorize individuals into different credit score brackets, with the aim of minimizing the need for manual effort.
 In the project we will use the data of a global company that collected basic bank details and gathered a lot of credit-related information.
 
 
