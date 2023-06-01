@@ -6,8 +6,8 @@ our project aims to classify borrowers and predict whether they will be consider
 
 ## Authors
 
-- [@Chanan Jacobs]([https://www.github.com/octokatherine](https://github.com/chananJ))
-- [@Aviv Yefet]([https://www.github.com/octokatherine](https://github.com/avivyefet))
+- [@Chanan Jacobs](https://github.com/chananJ)
+- [@Aviv Yefet](https://github.com/avivyefet)
 
 
 
