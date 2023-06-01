@@ -12,12 +12,12 @@ our project aims to classify borrowers and predict whether they will be consider
 
 
 ## the problem
-Given a person's credit-card information, we will build a machine learning model that can classify the credit score. Our goal is to create a smart system with ML that can categorize individuals into different credit score brackets, with the aim of minimizing the need for manual effort.
+Given a person's credit-card information, we will build a machine learning model that can classify the credit score. Our goal is to create a smart system with ML that can categorize individuals into class good or bad based on thier features.
 In the project we will use the data of a global company that collected basic bank details and gathered a lot of credit-related information.
 
 
 ## the data
-in the data there are various types of features . These features include both numerical and categorical variables. The dataset includes features such as customer demographics (age, gender, marital status), financial indicators (income, expenses, debt), credit history (number of previous loans, repayment behavior), employment details (occupation, employment length), and other relevant information.
+Our data is taken out of Kaggle. In the data there are various types of features . These features include both numerical and categorical variables. The dataset includes features such as customer demographics (age, gender, marital status), financial indicators (income, expenses, debt), credit history (number of previous loans, repayment behavior), employment details (occupation, employment length), and other relevant information.
 - in the data we have: 1000 rows, 21 columns
 
 #### the features
